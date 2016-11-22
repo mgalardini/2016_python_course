@@ -1,17 +1,7 @@
 2016_python_course
 ==================
 
-???
-
-Usage
------
-
-???
-
-Prerequisites
--------------
-
-???
+By Adrien Leger and Marco Galardini
 
 Copyright
 ---------
