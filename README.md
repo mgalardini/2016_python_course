@@ -28,3 +28,5 @@ nor may 2016_python_course appear in their names without prior written
 permission of the developers. You should have received a copy
 of the GNU General Public License along with this program.
 If not, see <http://www.gnu.org/licenses/>.
+
+http://www.ebi.ac.uk/~marco/2016_python_course/
